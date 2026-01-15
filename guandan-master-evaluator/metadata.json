@@ -1,0 +1,5 @@
+{
+  "name": "Guandan Master Evaluator",
+  "description": "An advanced tool to simulate dealing 27 cards in Chinese Guandan and evaluate the top 5 hand arrangements based on scoring heuristics.",
+  "requestFramePermissions": []
+}
